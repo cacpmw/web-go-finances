@@ -21,7 +21,7 @@ const Header: React.FC<HeaderProps> = ({ size = 'large' }: HeaderProps) => (
           Home
           </Link>
         <Link to="/import">
-          Importar
+          Import
           </Link>
 
       </nav>
